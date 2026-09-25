@@ -5,6 +5,8 @@
 
 [포트폴리오](https://myeongjundev.github.io/about/) · [이력서](https://myeongjundev.github.io/about/resume.html) · [English résumé](https://myeongjundev.github.io/about/resume-en.html)
 
+<img src="work-strip.png" width="100%" alt="대표작 네 개의 실제 화면. 왼쪽부터 ExplainSOC 결론 카드, 10번 논문의 분할 방식별 성능 비교 차트, CLOV 일정 계획 화면, 플랜두씨 다이어리 로그인 화면.">
+
 #### 대표작
 
 | 작업 | 한 줄 | 링크 |
